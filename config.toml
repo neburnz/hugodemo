@@ -1,0 +1,4 @@
+baseurl = "http://www.hugodemo.com/"
+languageCode = "en-us"
+title = "Hugo Demo"
+theme = "hugo-uno"
